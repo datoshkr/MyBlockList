@@ -55,94 +55,94 @@
 0.0.0.0 ntv.io
 0.0.0.0 atdmt.com
 0.0.0.0 openx.net
-app.link
-dianomi.com
-zergnet.com
-yadro.ru
-mxpnl.com
-adnxs.com
-stats.wp.com
-mgid.com
-c.evidon.com
-go-mpulse.net
-mmstat.com
-adjust.com
-moatads.com
-mopub.com
-amazon-adsystem.com
-s-bid.rmp.rakuten.com
-bizible.com
-popcash.com
-popads.net
-rum-static.pingdom.net
-branch.io
-assets.adobedtm.com
-tracker-api.my.com
-leanplum.com
-pcookie.aliexpress.com
-dmtracking2.alibaba.com
-zemanta.com
-cpx.to
-alexametrics.com
-mobile.webvisor.com
-api3.siftscience.com
-content.mql5.com
-applovin.com
-1x1.a-mo.net
-config.88-f.net
-cdn.88-f.net
-notify.bugsnag.com
-applvn.com
-tempest.services.disqus.com
-referrer.disqus.com
-ads.investingchannel.com
-bet365.com
-bats.video.yahoo.com
-geo.yahoo.com
-atwola.com
-geo.query.yahoo.com
-fc.yahoo.com
-consent.cmp.oath.com
-tns-counter.ru
-typekit.net
-online-metrix.net
-cdn.appdynamics.com
-optimizely.com
-chartbeat.com
-admantx.com
-b2c.com
-adsafeprotected.com
-tags.tiqcdn.com
-googlesyndication.com
-tealium.hs.llnwd.net
-om.dowjoneson.com
-zqtk.net
-cxense.com
-nr-data.net
-mgr.consensu.org
-ad-score.com
-ads.yahoo.com
-opmnstr.com
-bat.bing.com
-retargeter.com
-criteo.com
-rubiconproject.com
-advertising.com
-a.omappapi.com
-casalemedia.com
-pubmatic.com
-taboola.com
-3lift.com
-bidswitch.net
-rlcdn.com
-criteo.net
-mobileapi.usebutton.com
-snap.licdn.com
-crazyegg.com
-cdn.pushwoosh.com
-krxd.net
-quantcount.com
-deployads.com
+0.0.0.0 app.link
+0.0.0.0 dianomi.com
+0.0.0.0 zergnet.com
+0.0.0.0 yadro.ru
+0.0.0.0 mxpnl.com
+0.0.0.0 adnxs.com
+0.0.0.0 stats.wp.com
+0.0.0.0 mgid.com
+0.0.0.0 c.evidon.com
+0.0.0.0 go-mpulse.net
+0.0.0.0 mmstat.com
+0.0.0.0 adjust.com
+0.0.0.0 moatads.com
+0.0.0.0 mopub.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 s-bid.rmp.rakuten.com
+0.0.0.0 bizible.com
+0.0.0.0 popcash.com
+0.0.0.0 popads.net
+0.0.0.0 rum-static.pingdom.net
+0.0.0.0 branch.io
+0.0.0.0 assets.adobedtm.com
+0.0.0.0 tracker-api.my.com
+0.0.0.0 leanplum.com
+0.0.0.0 pcookie.aliexpress.com
+0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 zemanta.com
+0.0.0.0 cpx.to
+0.0.0.0 alexametrics.com
+0.0.0.0 mobile.webvisor.com
+0.0.0.0 api3.siftscience.com
+0.0.0.0 content.mql5.com
+0.0.0.0 applovin.com
+0.0.0.0 1x1.a-mo.net
+0.0.0.0 config.88-f.net
+0.0.0.0 cdn.88-f.net
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 applvn.com
+0.0.0.0 tempest.services.disqus.com
+0.0.0.0 referrer.disqus.com
+0.0.0.0 ads.investingchannel.com
+0.0.0.0 bet365.com
+0.0.0.0 bats.video.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 atwola.com
+0.0.0.0 geo.query.yahoo.com
+0.0.0.0 fc.yahoo.com
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 tns-counter.ru
+0.0.0.0 typekit.net
+0.0.0.0 online-metrix.net
+0.0.0.0 cdn.appdynamics.com
+0.0.0.0 optimizely.com
+0.0.0.0 chartbeat.com
+0.0.0.0 admantx.com
+0.0.0.0 b2c.com
+0.0.0.0 adsafeprotected.com
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 tealium.hs.llnwd.net
+0.0.0.0 om.dowjoneson.com
+0.0.0.0 zqtk.net
+0.0.0.0 cxense.com
+0.0.0.0 nr-data.net
+0.0.0.0 mgr.consensu.org
+0.0.0.0 ad-score.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 opmnstr.com
+0.0.0.0 bat.bing.com
+0.0.0.0 retargeter.com
+0.0.0.0 criteo.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 advertising.com
+0.0.0.0 a.omappapi.com
+0.0.0.0 casalemedia.com
+0.0.0.0 pubmatic.com
+0.0.0.0 taboola.com
+0.0.0.0 3lift.com
+0.0.0.0 bidswitch.net
+0.0.0.0 rlcdn.com
+0.0.0.0 criteo.net
+0.0.0.0 mobileapi.usebutton.com
+0.0.0.0 snap.licdn.com
+0.0.0.0 crazyegg.com
+0.0.0.0 cdn.pushwoosh.com
+0.0.0.0 krxd.net
+0.0.0.0 quantcount.com
+0.0.0.0 deployads.com
 getclicky.com
 addtoany.com
 adashx4ae.ut.taobao.com
