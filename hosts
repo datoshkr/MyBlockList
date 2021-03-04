@@ -1,154 +1,197 @@
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 app-measurement.com
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 cdn.heapanalytics.com
-0.0.0.0 collector.githubapp.com
-0.0.0.0 report.appmetrica.yandex.net
-0.0.0.0 startup.mobile.yandex.net
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 mc.yandex.ru
-0.0.0.0 informer.yandex.ru
-0.0.0.0 venetia.iad.appboy.com
-0.0.0.0 data.flurry.com
-0.0.0.0 iqoption.com
-0.0.0.0 www.googleoptimize.com
-0.0.0.0 app-ab13.marketo.com
-0.0.0.0 cdn.bizible.com
-0.0.0.0 munchkin.marketo.net
-0.0.0.0 static.cloudflareinsights.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 api2.branch.io
-0.0.0.0 b.stats.paypal.com
-0.0.0.0 geolocation.onetrust.com
-0.0.0.0 use.typekit.net
-0.0.0.0 js-agent.newrelic.com
-0.0.0.0 geo.yahoo.com
-0.0.0.0 cdn.onesignal.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.ru
-0.0.0.0 s7.addthis.com
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 consent.cmp.oath.com
-0.0.0.0 counter.top.ge
-0.0.0.0 s.adroll.com
-0.0.0.0 amplify.outbrain.com
-0.0.0.0 cdn.segment.com
-0.0.0.0 static.doubleclick.net
-0.0.0.0 static.chartbeat.com
-0.0.0.0 gj.mmstat.com
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 cdn.appsflyer.com
-0.0.0.0 secure.quantserve.com
-0.0.0.0 z.moatads.com
-0.0.0.0 cdn-pci.optimizely.com
-0.0.0.0 js.hs-scripts.com
-0.0.0.0 c.evidon.com
-0.0.0.0 tags.tiqcdn.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 bat.bing.com
-0.0.0.0 contextual.media.net
-0.0.0.0 h.online-metrix.net
-0.0.0.0 betemolgar.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 cdn.mxpnl.com
-0.0.0.0 tempest.services.disqus.com
-0.0.0.0 sslwidget.criteo.com
-0.0.0.0 dis.criteo.com
-0.0.0.0 dmtracking2.alibaba.com
-0.0.0.0 idsync.rlcdn.com
-0.0.0.0 us-u.openx.net
-0.0.0.0 api-js.mixpanel.com
-0.0.0.0 ag.gbc.criteo.com
-0.0.0.0 ib.adnxs.com
-0.0.0.0 cdn.adsafeprotected.com
-0.0.0.0 d.adroll.mgr.consensu.org
-0.0.0.0 ads.investingchannel.com
-0.0.0.0 cx.atdmt.com
-0.0.0.0 trustarc.mgr.consensu.org
-0.0.0.0 dsum-sec.casalemedia.com
-0.0.0.0 fc.yahoo.com
-0.0.0.0 cdn.taboola.com
-0.0.0.0 iggroup.demdex.net
-0.0.0.0 segment-data.zqtk.net
-0.0.0.0 sync.outbrain.com
-0.0.0.0 secure.adnxs.com
-0.0.0.0 eb2.3lift.com
-0.0.0.0 pixel.advertising.com
-0.0.0.0 geo.query.yahoo.com
-0.0.0.0 om.dowjoneson.com
-0.0.0.0 trgde.adocean.pl
-0.0.0.0 static.criteo.net
-0.0.0.0 a.opmnstr.com
-0.0.0.0 analytics.twitter.com
-0.0.0.0 www.tns-counter.ru
-0.0.0.0 x.bidswitch.net
-0.0.0.0 gem.gbc.criteo.com
-0.0.0.0 gum.criteo.com
-0.0.0.0 mb.moatads.com
-0.0.0.0 dis.eu.criteo.com
-0.0.0.0 tealium.hs.llnwd.net
-0.0.0.0 snap.licdn.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 counter.yadro.ru
-0.0.0.0 pixel.rubiconproject.com
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 api.b2c.com
-0.0.0.0 bats.video.yahoo.com
-0.0.0.0 s.go-mpulse.net
-0.0.0.0 tag.retargeter.com
-0.0.0.0 www.zergnet.com
-0.0.0.0 simage2.pubmatic.com
-0.0.0.0 d.adroll.com
-0.0.0.0 cdn.cxense.com
-0.0.0.0 bam.nr-data.net
-0.0.0.0 cdn.pushwoosh.com
-0.0.0.0 a.omappapi.com
-0.0.0.0 referrer.disqus.com
-0.0.0.0 www.dianomi.com
-0.0.0.0 cdn.appdynamics.com
-0.0.0.0 script.crazyegg.com
-0.0.0.0 trc.taboola.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 ir.us.y.atwola.com
-0.0.0.0 usasync01.admantx.com
-0.0.0.0 b.scorecardresearch.com
-0.0.0.0 s.ntv.io
-0.0.0.0 app.link
-0.0.0.0 rt.ad-score.com
-0.0.0.0 a.mgid.com
-0.0.0.0 an.yandex.ru
-0.0.0.0 cfg.flurry.com
-0.0.0.0 launches.appsflyer.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 adobecorp.sc.omtrdc.net
-0.0.0.0 dpm.demdex.net
-0.0.0.0 assets.adobedtm.com
-0.0.0.0 quantcast.mgr.consensu.org
-0.0.0.0 mobilesdk-eu.kampyle.com
-0.0.0.0 nebula-cdn.kampyle.com
-0.0.0.0 mboxedge37.tt.omtrdc.net
-0.0.0.0 cdn.bmcdn1.com
-0.0.0.0 ad.a-ads.com
-0.0.0.0 request-global.czilladx.com
-0.0.0.0 odb.outbrain.com
-0.0.0.0 appmetrica.yandex.net
-0.0.0.0 rosenberg.appmetrica.yandex.net
-0.0.0.0 app.adjust.com
-0.0.0.0 adashx4ae.ut.taobao.com
-0.0.0.0 applog.uc.cn
-0.0.0.0 woodpecker.uc.cn
-0.0.0.0 cdnjs.tvpage.com
-0.0.0.0 px.owneriq.net
-0.0.0.0 a.optmnstr.com
-0.0.0.0 advertur.ru
-0.0.0.0 ddnk.advertur.ru
-0.0.0.0 sac.ayads.co
-0.0.0.0 api.mixpanel.com
-0.0.0.0 ad.mail.ru
-0.0.0.0 tvpage.com
-0.0.0.0 owneriq.net
-0.0.0.0 optmnstr.com
+0.0.0.0 doubleclick.net
+0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 mixpanel.com
+app-measurement.com
+crashlytics.com
+report.appmetrica.yandex.net
+flurry.com
+appsflyer.com
+google-analytics.com
+investingapp.net
+startup.mobile.yandex.net
+googletagmanager.com
+nebula-cdn.kampyle.com
+googleadservices.com
+analytics.twitter.com
+demdex.net
+adservice.google.com
+googleoptimize.com
+trafficjunky.net
+web.vortex.data.microsoft.com
+v10c.events.data.microsoft.com
+mparticle.com
+fra-col.eum-appdynamics.com
+sessions.bugsnag.com
+appboy.com
+omtrdc.net
+addthis.com
+heapanalytics.com
+quantserve.com
+munchkin.marketo.net
+js-agent.newrelic.com
+collector.githubapp.com
+onesignal.com
+mc.yandex.ru
+static.cloudflareinsights.com
+cdn.segment.com
+media.net
+js.hscollectedforms.net
+marketo.com
+js.hs-scripts.com
+outbrain.com
+hotjar.com
+ads-twitter.com
+informer.yandex.ru
+hsadspixel.net
+adroll.com
+scorecardresearch.com
+adocean.pl
+iqoption.com
+coinzilla.io
+a-ads.com
+bitmedia.io
+geolocation.onetrust.com
+ntv.io
+atdmt.com
+openx.net
+app.link
+dianomi.com
+zergnet.com
+yadro.ru
+mxpnl.com
+adnxs.com
+stats.wp.com
+mgid.com
+c.evidon.com
+go-mpulse.net
+mmstat.com
+adjust.com
+moatads.com
+mopub.com
+amazon-adsystem.com
+s-bid.rmp.rakuten.com
+bizible.com
+popcash.com
+popads.net
+rum-static.pingdom.net
+branch.io
+assets.adobedtm.com
+tracker-api.my.com
+leanplum.com
+pcookie.aliexpress.com
+dmtracking2.alibaba.com
+zemanta.com
+cpx.to
+alexametrics.com
+mobile.webvisor.com
+api3.siftscience.com
+content.mql5.com
+applovin.com
+1x1.a-mo.net
+config.88-f.net
+cdn.88-f.net
+notify.bugsnag.com
+applvn.com
+tempest.services.disqus.com
+referrer.disqus.com
+ads.investingchannel.com
+bet365.com
+bats.video.yahoo.com
+geo.yahoo.com
+atwola.com
+geo.query.yahoo.com
+fc.yahoo.com
+consent.cmp.oath.com
+tns-counter.ru
+typekit.net
+online-metrix.net
+cdn.appdynamics.com
+optimizely.com
+chartbeat.com
+admantx.com
+b2c.com
+adsafeprotected.com
+tags.tiqcdn.com
+googlesyndication.com
+tealium.hs.llnwd.net
+om.dowjoneson.com
+zqtk.net
+cxense.com
+nr-data.net
+mgr.consensu.org
+ad-score.com
+ads.yahoo.com
+opmnstr.com
+bat.bing.com
+retargeter.com
+criteo.com
+rubiconproject.com
+advertising.com
+a.omappapi.com
+casalemedia.com
+pubmatic.com
+taboola.com
+3lift.com
+bidswitch.net
+rlcdn.com
+criteo.net
+mobileapi.usebutton.com
+snap.licdn.com
+crazyegg.com
+cdn.pushwoosh.com
+krxd.net
+quantcount.com
+deployads.com
+getclicky.com
+addtoany.com
+adashx4ae.ut.taobao.com
+fls-na.amazon.com
+aax-us-iad.amazon.com
+ns1p.net
+applog.uc.cn
+adform.net
+an.yandex.ru
+viglink.com
+assoc-amazon.com
+woodpecker.uc.cn
+fra-01.braze.eu
+czilladx.com
+mellowads.com
+cointraffic.io
+bs.direct
+nexac.com
+ensighten.com
+bkrtx.com
+w.usabilla.com
+bluekai.com
+c.riskified.com
+mobilesdk-eu.kampyle.com
+bmcdn1.com
+betemolgar.com
+adsrvr.org
+rkdms.com
+liadm.com
+adservice.google.co.in
+trustx.org
+tracemyip.org
+track.mailerlite.com
+counter.top.ge
+sonobi.com
+js.logentries.com
+optmnstr.com
+liveperson.net
+owneriq.net
+sac.ayads.co
+ad.mail.ru
+tvpage.com
+adservice.google.ru
+ct.pinterest.com
+counter.rambler.ru
+advertur.ru
+statcounter.com
+skimresources.com
+h-adashx.ut.taobao.com
+weborama.fr
+b.stats.paypal.com
+appmetrica.yandex.net
